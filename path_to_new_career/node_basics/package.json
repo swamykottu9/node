@@ -1,0 +1,23 @@
+{
+  "name": "com.swamy.nodebasics",
+  "version": "1.0.0",
+  "description": "Learn node and aws",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swamykottu9/node.git"
+  },
+  "author": "swamy kottu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swamykottu9/node/issues"
+  },
+  "homepage": "https://github.com/swamykottu9/node#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
